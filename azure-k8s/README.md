@@ -1,7 +1,7 @@
 # azure-k8s
 This is based on Ivan Fioravanti's [Kubernetes the hard way on azure](https://github.com/ivanfioravanti/kubernetes-the-hard-way-on-azure) which is a fork of the great [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) from [Kelsey Hightower](https://twitter.com/kelseyhightower).  
   
-Thanks to both of them!!!  
+Thanks to both!!!  
 
   
 
